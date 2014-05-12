@@ -1,4 +1,4 @@
 poolhousefarm.github.io
 =======================
 
-Sstatic web site
+Static web site
